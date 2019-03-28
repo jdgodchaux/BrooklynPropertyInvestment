@@ -1,1 +1,2 @@
-# BrooklynPropertyInvestment
+# Brooklyn Property Investment
+This repository parses data from Zillow and GreatSchools into a machine readable format for CARTO. `listings.json` was retrieved from Zillow's GetResults endpoint, and `schools.json` was retrived from GreatSchools' schools endpoint.

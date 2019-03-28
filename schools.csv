@@ -1,0 +1,201 @@
+fragment_ids,grades,gs_rating,lat,level,level_codes,link,location,lon,name,region_id,school_id,size,students_per_teacher,type
+,9-12,10,40.7008,High,[u'High'],/new-york-ny/schools/queens-high-school-for-the-sciences-at-york-colleg-48681/,"[-73.7982, 40.7008]",-73.7982,Queens High School For The Sciences At York Colleg,466390,48681,434,17,Public
+,9-12,10,40.5679,High,[u'High'],/new-york-ny/schools/staten-island-technical-high-school-49530/,"[-74.1157, 40.5679]",-74.1157,Staten Island Technical High School,469179,49530,1278,22,Public
+,9-12,10,40.735,High,[u'High'],/new-york-ny/schools/townsend-harris-high-school-51213/,"[-73.8213, 40.735]",-73.8213,Townsend Harris High School,468830,51213,1132,22,Public
+,K-5,10,40.6331,Elementary,[u'Elementary'],/new-york-ny/schools/ps-105-the-blythebourne-52322/,"[-74.0037, 40.6331]",-74.0037,Ps 105 The Blythebourne,468369,52322,1676,17,Public
+,6-8,10,40.6187,Middle,[u'Middle'],/new-york-ny/schools/jhs-201-the-dyker-heights-52336/,"[-74.0133, 40.6187]",-74.0133,Jhs 201 The Dyker Heights,468385,52336,1470,17,Public
+,6-8,10,40.5837,Middle,[u'Middle'],/new-york-ny/schools/is-98-bay-academy-52493/,"[-73.9542, 40.5837]",-73.9542,I.S. 98 Bay Academy,498348,52493,1494,20,Public
+,9-12,10,40.718,High,[u'High'],/new-york-ny/schools/stuyvesant-high-school-54924/,"[-74.014, 40.718]",-74.014,Stuyvesant High School,469685,54924,3328,21,Public
+,9-12,10,40.7702,High,[u'High'],/new-york-ny/schools/eleanor-roosevelt-high-school-55620/,"[-73.9533, 40.7702]",-73.9533,Eleanor Roosevelt High School,470090,55620,555,18,Public
+,9-12,10,40.689,High,[u'High'],/new-york-ny/schools/brooklyn-technical-high-school-63480/,"[-73.9765, 40.689]",-73.9765,Brooklyn Technical High School,474199,63480,5534,21,Public
+,6-8,10,40.6722,Middle,[u'Middle'],/new-york-ny/schools/ms-51-william-alexander-63641/,"[-73.9846, 40.6722]",-73.9846,Ms 51 William Alexander,538232,63641,1127,17,Public
+,K-5,10,40.663,Elementary,[u'Elementary'],/new-york-ny/schools/ps-107-john-w-kimball-63645/,"[-73.9812, 40.663]",-73.9812,Ps 107 John W Kimball,477056,63645,575,14,Public
+,PK-5,10,40.6578,Elementary,[u'Elementary'],/new-york-ny/schools/ps-172-beacon-school-of-excellence-63651/,"[-74.0004, 40.6578]",-74.0004,P.S. 172 Beacon School Of Excellence,477062,63651,589,12,Public
+,K-5,10,40.6715,Elementary,[u'Elementary'],/new-york-ny/schools/ps-321-william-penn-63654/,"[-73.9781, 40.6715]",-73.9781,Ps 321 William Penn,477065,63654,1465,17,Public
+,6-8,10,40.6834,Middle,[u'Middle'],/new-york-ny/schools/the-math-and-science-exploratory-school-63773/,"[-73.9799, 40.6834]",-73.9799,The Math And Science Exploratory School,555363,63773,525,9,Public
+,6-8,10,40.6612,Middle,[u'Middle'],/new-york-ny/schools/new-voices-school-of-academic-and-creative-arts-63774/,"[-73.9887, 40.6612]",-73.9887,New Voices School of Academic and Creative Arts,557966,63774,541,14,Public
+,K-5,10,40.6069,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/ps-748-brooklyn-school-for-global-scholars-159759/,"[-74.0073, 40.6069]",-74.0073,Ps 748 Brooklyn School For Global Scholars,693129,159759,617,16,Public
+,9-12,9,40.705,High,[u'High'],/new-york-ny/schools/brooklyn-latin-school-49738/,"[-73.939, 40.705]",-73.939,Brooklyn Latin School,467081,49738,666,16,Public
+,PK-8,9,40.6065,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-47-chris-galas-51382/,"[-73.8208, 40.6065]",-73.8208,Ps 47 Chris Galas,468905,51382,221,13,Public
+,K-8,9,40.6629,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/hellenic-classical-charter-school-52234/,"[-73.9921, 40.6629]",-73.9921,Hellenic Classical Charter School,516684,52234,477,14,Charter
+,PK-5,9,40.6138,Elementary,[u'Elementary'],/new-york-ny/schools/ps-204-vince-lombardi-52337/,"[-74.0065, 40.6138]",-74.0065,Ps 204 Vince Lombardi,468386,52337,1166,16,Public
+,PK-8,9,40.6101,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-229-dyker-52342/,"[-74.0136, 40.6101]",-74.0136,Ps 229 Dyker,468391,52342,1188,18,Public
+,K-5,9,40.6122,Elementary,[u'Elementary'],/new-york-ny/schools/ps-247-52343/,"[-73.9871, 40.6122]",-73.9871,Ps 247,468392,52343,2013,15,Public
+,6-8,9,40.6263,Middle,[u'Middle'],/new-york-ny/schools/jhs-259-william-mckinley-52344/,"[-74.0151, 40.6263]",-74.0151,Jhs 259 William Mckinley,468393,52344,1618,15,Public
+,PK-5,9,40.5775,Elementary,[u'Elementary'],/new-york-ny/schools/ps-100-the-coney-island-school-52470/,"[-73.9708, 40.5775]",-73.9708,Ps 100 The Coney Island School,468449,52470,762,15,Public
+,K-5,9,40.5976,Elementary,[u'Elementary'],/new-york-ny/schools/ps-101-the-verrazano-52471/,"[-73.9917, 40.5976]",-73.9917,P.S. 101 the Verrazano,468450,52471,888,14,Public
+,6-8,9,40.5786,Middle,[u'Middle'],/new-york-ny/schools/mark-twain-is-239-for-the-gifted-and-talented-52486/,"[-73.9926, 40.5786]",-73.9926,Mark Twain is 239 for the Gifted and Talented,468470,52486,1344,18,Public
+,PK-5,9,40.5803,Elementary,[u'Elementary'],/new-york-ny/schools/ps-195-manhattan-beach-52664/,"[-73.9437, 40.5803]",-73.9437,Ps 195 Manhattan Beach,470603,52664,456,19,Public
+,6-8,9,40.6043,Middle,[u'Middle'],/new-york-ny/schools/jhs-234-arthur-w-cunningham-52671/,"[-73.9553, 40.6043]",-73.9553,Jhs 234 Arthur W Cunningham,470612,52671,1992,19,Public
+,PK-5,9,40.6156,Elementary,[u'Elementary'],/new-york-ny/schools/ps-236-mill-basin-52672/,"[-73.9122, 40.6156]",-73.9122,Ps 236 Mill Basin,470613,52672,579,15,Public
+,PK-5,9,40.5959,Elementary,[u'Elementary'],/new-york-ny/schools/ps-277-gerritsen-beach-52680/,"[-73.928, 40.5959]",-73.928,Ps 277 Gerritsen Beach,470620,52680,439,14,Public
+,K-5,9,40.6322,Elementary,[u'Elementary'],/new-york-ny/schools/ps-134-52684/,"[-73.9732, 40.6322]",-73.9732,Ps 134,470624,52684,546,14,Public
+,K-10,9,40.6745,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/achievement-first-brownsville-charter-school-53180/,"[-73.9135, 40.6745]",-73.9135,Achievement First Brownsville Charter School,566825,53180,817,12,Charter
+,K-12,9,40.7192,Middle,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/new-explorations-into-science-tech-and-math-high-school-54639/,"[-73.9797, 40.7192]",-73.9797,New Explorations Into Science  Tech and Math High School,509257,54639,1738,18,Public
+,9-12,9,40.7419,High,[u'High'],/new-york-ny/schools/manhattan-village-academy-54767/,"[-73.992, 40.7419]",-73.992,Manhattan Village Academy,475283,54767,441,16,Public
+,9-12,9,40.7391,High,[u'High'],/new-york-ny/schools/baruch-college-campus-high-school-54920/,"[-73.9845, 40.7391]",-73.9845,Baruch College Campus High School,469682,54920,446,19,Public
+,9-12,9,40.7048,High,[u'High'],/new-york-ny/schools/millennium-high-school-55621/,"[-74.0112, 40.7048]",-74.0112,Millennium High School,470091,55621,641,16,Public
+,9-12,9,40.7173,High,[u'High'],/new-york-ny/schools/high-school-for-dual-language-and-asian-studies-55626/,"[-73.9894, 40.7173]",-73.9894,High School for Dual Language and Asian Studies,470095,55626,420,16,Public
+,9-12,9,40.7246,High,[u'High'],/new-york-ny/schools/nyc-ischool-55640/,"[-74.0049, 40.7246]",-74.0049,NYC Ischool,470106,55640,461,13,Public
+,PK-5,9,40.6855,Elementary,[u'Elementary'],/new-york-ny/schools/ps-11-purvis-j-behan-63485/,"[-73.9658, 40.6855]",-73.9658,Ps 11 Purvis J Behan,474204,63485,832,17,Public
+,PK-5,9,40.6804,Elementary,[u'Elementary'],/new-york-ny/schools/ps-58-the-carroll-63642/,"[-73.9955, 40.6804]",-73.9955,Ps 58 The Carroll,477053,63642,1001,15,Public
+,PK-5,9,40.6796,Elementary,[u'Elementary'],/new-york-ny/schools/ps-146-63660/,"[-74.002, 40.6796]",-74.002,P.S. 146,564257,63660,654,14,Public
+,PK-5,9,40.6498,Elementary,[u'Elementary'],/new-york-ny/schools/ps-249-the-caton-64484/,"[-73.9663, 40.6498]",-73.9663,Ps 249 The Caton,479046,64484,895,16,Public
+,6-8,9,40.6723,Middle,[u'Middle'],/new-york-ny/schools/the-school-of-integrated-learning-64658/,"[-73.9373, 40.6723]",-73.9373,The School Of Integrated Learning,474668,64658,221,10,Public
+,PK-8,9,40.6549,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-235-lenox-school-64670/,"[-73.9409, 40.6549]",-73.9409,Ps 235 Lenox School,474679,64670,1282,18,Public
+,K-8,9,40.6773,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/achievement-first-apollo-charter-school-157738/,"[-73.8839, 40.6773]",-73.8839,Achievement First Apollo Charter School,634715,157738,679,10,Charter
+,K-5,9,40.6069,Elementary,[u'Elementary'],/new-york-ny/schools/ps-682-the-academy-of-talented-scholars-165032/,"[-73.9867, 40.6069]",-73.9867,P.S. 682 The Academy of Talented Scholars,744438,165032,351,9,Public
+,K-8,9,40.6069,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/brooklyn-school-of-inquiry-165033/,"[-73.9867, 40.6069]",-73.9867,Brooklyn School Of Inquiry,744688,165033,513,22,Public
+,PK-5,8,40.7268,Elementary,[u'Elementary'],/new-york-ny/schools/ps-31-samuel-f-dupont-49707/,"[-73.9542, 40.7268]",-73.9542,Ps 31 Samuel F Dupont,467050,49707,612,16,Public
+,PK-5,8,40.7021,Elementary,[u'Elementary'],/new-york-ny/schools/ps-380-john-wayne-elementary-school-49728/,"[-73.9535, 40.7021]",-73.9535,Ps 380 John Wayne Elementary School,467071,49728,663,13,Public
+,K-8,8,40.6178,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-is-104-the-fort-hamilton-school-52321/,"[-74.0286, 40.6178]",-74.0286,Ps Is 104 The Fort Hamilton School,468367,52321,1232,16,Public
+,K-5,8,40.6369,Elementary,[u'Elementary'],/new-york-ny/schools/ps-160-william-t-sampson-52325/,"[-73.9991, 40.6369]",-73.9991,Ps 160 William T Sampson,468372,52325,1387,15,Public
+,K-8,8,40.607,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-163-bath-beach-52326/,"[-74.0072, 40.607]",-74.0072,Ps 163 Bath Beach,468373,52326,627,14,Public
+,PK-5,8,40.6372,Elementary,[u'Elementary'],/new-york-ny/schools/ps-164-caesar-rodney-52327/,"[-73.9858, 40.6372]",-73.9858,Ps 164 Caesar Rodney,468374,52327,596,13,Public
+,K-5,8,40.6248,Elementary,[u'Elementary'],/new-york-ny/schools/ps-176-ovington-52329/,"[-74.0053, 40.6248]",-74.0053,Ps 176 Ovington,468376,52329,1411,17,Public
+,PK-8,8,40.6266,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/the-seeall-academy-52331/,"[-73.9896, 40.6266]",-73.9896,The Seeall Academy,468378,52331,1117,13,Public
+,K-5,8,40.6236,Elementary,[u'Elementary'],/new-york-ny/schools/ps-185-walter-kassenbrock-52332/,"[-74.0336, 40.6236]",-74.0336,Ps 185 Walter Kassenbrock,468380,52332,661,18,Public
+,K-5,8,40.6111,Elementary,[u'Elementary'],/new-york-ny/schools/ps-186-dr-irving-a-gladstone-52333/,"[-73.9945, 40.6111]",-73.9945,Ps 186 Dr Irving A Gladstone,468381,52333,995,16,Public
+,6-8,8,40.6408,Middle,[u'Middle'],/new-york-ny/schools/jhs-220-john-j-pershing-52339/,"[-74.001, 40.6408]",-74.001,Jhs 220 John J Pershing,468388,52339,1432,13,Public
+,6-8,8,40.6348,Middle,[u'Middle'],/new-york-ny/schools/jhs-223-the-montauk-52340/,"[-73.982, 40.6348]",-73.982,Jhs 223 The Montauk,468389,52340,1003,14,Public
+,PK-8,8,40.5867,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-209-margaret-mead-52478/,"[-73.9618, 40.5867]",-73.9618,Ps 209 Margaret Mead,468458,52478,711,12,Public
+,6-8,8,40.601,Middle,[u'Middle'],/new-york-ny/schools/is-228-david-a-boody-52484/,"[-73.9768, 40.601]",-73.9768,Is 228 David A Boody,468467,52484,1360,15,Public
+,PK-5,8,40.5799,Elementary,[u'Elementary'],/new-york-ny/schools/ps-253-52487/,"[-73.962, 40.5799]",-73.962,Ps 253,468471,52487,870,13,Public
+,9-12,8,40.5804,High,[u'High'],/new-york-ny/schools/leon-m-goldstein-high-school-for-the-sciences-52651/,"[-73.9349, 40.5804]",-73.9349,Leon M Goldstein High School for the Sciences,470589,52651,1048,20,Public
+,PK-8,8,40.6137,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-207-elizabeth-g-leary-52668/,"[-73.9302, 40.6137]",-73.9302,Ps 207 Elizabeth G Leary,470608,52668,1275,16,Public
+,PK-5,8,40.6137,Elementary,[u'Elementary'],/new-york-ny/schools/ps-222-katherine-r-snyder-52670/,"[-73.9389, 40.6137]",-73.9389,Ps 222 Katherine R Snyder,470611,52670,886,13,Public
+,PK-5,8,40.5907,Elementary,[u'Elementary'],/new-york-ny/schools/ps-254-dag-hammarskjold-52674/,"[-73.9515, 40.5907]",-73.9515,Ps 254 Dag Hammarskjold,470615,52674,777,16,Public
+,PK-5,8,40.6043,Elementary,[u'Elementary'],/new-york-ny/schools/ps-255-barbara-reing-school-52675/,"[-73.9559, 40.6043]",-73.9559,Ps 255 Barbara Reing School,470616,52675,914,13,Public
+,K-12,8,40.6977,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/achievement-first-bushwick-charter-school-52963/,"[-73.9193, 40.6977]",-73.9193,Achievement First Bushwick Charter School,622168,52963,1066,12,Charter
+,9-12,8,40.7183,High,[u'High'],/new-york-ny/schools/bard-high-school-early-college-54647/,"[-73.976, 40.7183]",-73.976,Bard High School Early College,469444,54647,535,19,Public
+,9-12,8,40.7425,High,[u'High'],/new-york-ny/schools/nyc-lab-high-school-for-collaborative-studies-54921/,"[-74.0025, 40.7425]",-74.0025,NYC Lab High School for Collaborative Studies,469683,54921,527,18,Public
+,6-12,8,40.7391,Middle,"[u'Middle', u'High']",/new-york-ny/schools/school-of-the-future-high-school-54922/,"[-73.9853, 40.7391]",-73.9853,School of the Future High School,561066,54922,752,15,Public
+,9-12,8,40.7424,High,[u'High'],/new-york-ny/schools/nyc-museum-school-54923/,"[-74.0024, 40.7424]",-74.0024,NYC Museum School,469684,54923,449,18,Public
+,9-12,8,40.6855,High,[u'High'],/new-york-ny/schools/bedford-academy-high-school-63506/,"[-73.9541, 40.6855]",-73.9541,Bedford Academy High School,474226,63506,364,18,Public
+,K-5,8,40.6608,Elementary,[u'Elementary'],/new-york-ny/schools/ps10-magnet-school-for-math-science-design-technology-63635/,"[-73.986, 40.6608]",-73.986,P.S.10 Magnet School for Math  Science & Design Technology,477047,63635,948,15,Public
+,PK-5,8,40.6869,Elementary,[u'Elementary'],/new-york-ny/schools/ps-29-john-m-harrigan-63637/,"[-73.9978, 40.6869]",-73.9978,Ps 29 John M Harrigan,477049,63637,901,17,Public
+,K-5,8,40.6686,Elementary,[u'Elementary'],/new-york-ny/schools/ps-39-henry-bristow-63640/,"[-73.9829, 40.6686]",-73.9829,Ps 39 Henry Bristow,477052,63640,425,15,Public
+,K-5,8,40.657,Elementary,[u'Elementary'],/new-york-ny/schools/magnet-school-for-science-and-technology-63649/,"[-73.9761, 40.657]",-73.9761,Magnet School For Science And Technology,477060,63649,533,16,Public
+,6-8,8,40.6603,Middle,[u'Middle'],/new-york-ny/schools/jhs-88-peter-rouget-63658/,"[-73.988, 40.6603]",-73.988,Jhs 88 Peter Rouget,511321,63658,1275,13,Public
+,K-8,8,40.6654,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-189-lincoln-terrace-64479/,"[-73.9257, 40.6654]",-73.9257,Ps 189 Lincoln Terrace,479040,64479,1040,15,Public
+,PK-5,8,40.6745,Elementary,[u'Elementary'],/new-york-ny/schools/ps-316-elijah-stroud-64486/,"[-73.9608, 40.6745]",-73.9608,Ps 316 Elijah Stroud,479048,64486,433,11,Public
+,5-8,8,40.6976,Middle,[u'Middle'],/new-york-ny/schools/jhs-383-philippa-schuyler-64922/,"[-73.9193, 40.6976]",-73.9193,Jhs 383 Philippa Schuyler,474737,64922,952,18,Public
+,6-12,8,40.6975,High,"[u'Middle', u'High']",/new-york-ny/schools/all-city-leadership-secondary-school-64939/,"[-73.9139, 40.6975]",-73.9139,All City Leadership Secondary School,510225,64939,385,,Public
+,K-8,8,40.7047,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/is-119-the-glendale-68455/,"[-73.8749, 40.7047]",-73.8749,I.S. 119 the Glendale,476175,68455,1188,17,Public
+,9-12,8,40.7445,High,[u'High'],/new-york-ny/schools/academy-of-finance-and-enterprise-68475/,"[-73.937, 40.7445]",-73.937,Academy of Finance and Enterprise,476194,68475,512,19,Public
+,K-5,8,40.6205,Elementary,[u'Elementary'],/new-york-ny/schools/ps-264-bay-ridge-elementary-school-for-the-arts-159760/,"[-74.0286, 40.6205]",-74.0286,Ps 264 Bay Ridge Elementary School For The Arts,695383,159760,482,15,Public
+,9-12,7,40.751,High,[u'High'],/new-york-ny/schools/academy-of-american-studies-49051/,"[-73.9373, 40.751]",-73.9373,Academy of American Studies,469618,49051,895,16,Public
+,PK-5,7,40.7263,Elementary,[u'Elementary'],/new-york-ny/schools/ps-34-oliver-h-perry-49708/,"[-73.9498, 40.7263]",-73.9498,P.S. 34 Oliver H Perry,467051,49708,480,18,Public
+,K-5,7,40.6871,Elementary,[u'Elementary'],/new-york-ny/schools/ps-65-49820/,"[-73.8782, 40.6871]",-73.8782,Ps 65,470218,49820,641,15,Public
+,PK-5,7,40.6813,Elementary,[u'Elementary'],/new-york-ny/schools/ps-108-sal-abbracciamento-49822/,"[-73.8843, 40.6813]",-73.8843,Ps 108 Sal Abbracciamento,470221,49822,988,13,Public
+,6-8,7,40.6719,Middle,[u'Middle'],/new-york-ny/schools/jhs-292-margaret-s-douglas-49837/,"[-73.8935, 40.6719]",-73.8935,Jhs 292 Margaret S Douglas,470238,49837,622,15,Public
+,6-12,7,40.7494,High,"[u'Middle', u'High']",/new-york-ny/schools/east-west-school-of-international-studies-51369/,"[-73.8214, 40.7494]",-73.8214,East West School Of International Studies,468892,51369,679,14,Public
+,K-12,7,40.6638,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/achievement-first-east-new-york-charter-school-52237/,"[-73.8933, 40.6638]",-73.8933,Achievement First East New York Charter School,518884,52237,849,12,Charter
+,PK-5,7,40.6215,Elementary,[u'Elementary'],/new-york-ny/schools/ps-48-mapleton-52318/,"[-73.9873, 40.6215]",-73.9873,Ps 48 Mapleton,468364,52318,597,15,Public
+,6-8,7,40.6382,Middle,[u'Middle'],/new-york-ny/schools/jhs-62-ditmas-52319/,"[-73.9712, 40.6382]",-73.9712,Jhs 62 Ditmas,468365,52319,1179,13,Public
+,K-5,7,40.6342,Elementary,[u'Elementary'],/new-york-ny/schools/ps-102-the-bayview-52320/,"[-74.029, 40.6342]",-74.029,Ps 102 The Bayview,468366,52320,1425,16,Public
+,PK-5,7,40.6194,Elementary,[u'Elementary'],/new-york-ny/schools/ps-112-lefferts-park-52323/,"[-74.0006, 40.6194]",-74.0006,Ps 112 Lefferts Park,468370,52323,624,14,Public
+,K-5,7,40.6237,Elementary,[u'Elementary'],/new-york-ny/schools/ps-127-mckinley-park-52324/,"[-74.0187, 40.6237]",-74.0187,Ps 127 Mckinley Park,468371,52324,526,13,Public
+,K-5,7,40.6304,Elementary,[u'Elementary'],/new-york-ny/schools/ralph-a-fabrizio-school-52328/,"[-74.019, 40.6304]",-74.019,Ralph A Fabrizio School,468375,52328,1018,15,Public
+,PK-5,7,40.6149,Elementary,[u'Elementary'],/new-york-ny/schools/ps-205-clarion-52338/,"[-73.9871, 40.6149]",-73.9871,Ps 205 Clarion,468387,52338,1187,14,Public
+,6-8,7,40.6218,Middle,[u'Middle'],/new-york-ny/schools/jhs-227-edward-b-shallow-52341/,"[-73.9956, 40.6218]",-73.9956,Jhs 227 Edward B Shallow,468390,52341,1271,14,Public
+,"K-4, 6-8",7,40.6337,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/is-30-mary-white-ovington-52345/,"[-74.023, 40.6337]",-74.023,Is 30 Mary White Ovington,468394,52345,715,15,Public
+,K-5,7,40.6324,Elementary,[u'Elementary'],/new-york-ny/schools/ps-69-vincent-d-grippo-school-52346/,"[-74.0096, 40.6324]",-74.0096,Ps 69 Vincent D Grippo School,468395,52346,844,15,Public
+,6-12,7,40.6348,Middle,"[u'Middle', u'High']",/new-york-ny/schools/urban-assembly-school-for-criminal-justice-52349/,"[-73.982, 40.6348]",-73.982,Urban Assembly School for Criminal Justice,468398,52349,531,12,Public
+,PK-8,7,40.5959,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-95-the-gravesend-52466/,"[-73.9747, 40.5959]",-73.9747,Ps 95 The Gravesend,468443,52466,936,14,Public
+,6-8,7,40.6078,Middle,[u'Middle'],/new-york-ny/schools/is-96-seth-low-52467/,"[-73.9848, 40.6078]",-73.9848,I.S. 96 Seth Low,468445,52467,637,13,Public
+,K-5,7,40.6012,Elementary,[u'Elementary'],/new-york-ny/schools/ps-97-the-highlawn-52468/,"[-73.9856, 40.6012]",-73.9856,Ps 97 The Highlawn,468446,52468,835,13,Public
+,PK-5,7,40.6165,Elementary,[u'Elementary'],/new-york-ny/schools/ps-199-frederick-wachtel-52477/,"[-73.963, 40.6165]",-73.963,Ps 199 Frederick Wachtel,468457,52477,505,12,Public
+,PK-5,7,40.5903,Elementary,[u'Elementary'],/new-york-ny/schools/ps-216-arturo-toscanini-52481/,"[-73.9695, 40.5903]",-73.9695,Ps 216 Arturo Toscanini,468462,52481,691,15,Public
+,PK-8,7,40.6152,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-226-alfred-de-b-mason-52483/,"[-73.9768, 40.6152]",-73.9768,Ps 226 Alfred De B Mason,468465,52483,1003,13,Public
+,6-8,7,40.5945,Middle,[u'Middle'],/new-york-ny/schools/is-281-joseph-b-cavallaro-52488/,"[-73.9938, 40.5945]",-73.9938,Is 281 Joseph B Cavallaro,468472,52488,1159,15,Public
+,6-8,7,40.5823,Middle,[u'Middle'],/new-york-ny/schools/is-303-herbert-s-eisenberg-52490/,"[-73.9717, 40.5823]",-73.9717,Is 303 Herbert S Eisenberg,470515,52490,496,15,Public
+,9-12,7,40.6317,High,"[u'Middle', u'High']",/new-york-ny/schools/brooklyn-college-academy-52650/,"[-73.9535, 40.6317]",-73.9535,Brooklyn College Academy,510351,52650,594,21,Public
+,6-8,7,40.6066,Middle,[u'Middle'],/new-york-ny/schools/jhs-278-marine-park-52656/,"[-73.9388, 40.6066]",-73.9388,Jhs 278 Marine Park,470595,52656,925,13,Public
+,9-12,7,40.6328,High,[u'High'],/new-york-ny/schools/midwood-high-school-52657/,"[-73.9525, 40.6328]",-73.9525,Midwood High School,470596,52657,4003,23,Public
+,PK-8,7,40.5972,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-206-joseph-f-lamb-52667/,"[-73.9486, 40.5972]",-73.9486,Ps 206 Joseph F Lamb,470606,52667,1414,17,Public
+,PK-5,7,40.6337,Elementary,[u'Elementary'],/new-york-ny/schools/ps-217-colonel-david-marcus-school-52669/,"[-73.9662, 40.6337]",-73.9662,Ps 217 Colonel David Marcus School,470610,52669,1224,16,Public
+,PK-5,7,40.6218,Elementary,[u'Elementary'],/new-york-ny/schools/ps-312-bergen-beach-52677/,"[-73.9088, 40.6218]",-73.9088,Ps 312 Bergen Beach,470618,52677,867,15,Public
+,6-8,7,40.6125,Middle,[u'Middle'],/new-york-ny/schools/is-381-52685/,"[-73.9517, 40.6125]",-73.9517,Is 381,526593,52685,313,15,Public
+,K-12,7,40.6954,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/achievement-first-endeavor-charter-school-52967/,"[-73.9601, 40.6954]",-73.9601,Achievement First Endeavor Charter School,620972,52967,1008,10,Charter
+,K-12,7,40.6906,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/leadership-preparatory-bedford-stuyvesant-charter-school-52969/,"[-73.9499, 40.6906]",-73.9499,Leadership Preparatory Bedford Stuyvesant Charter School,504821,52969,776,11,Charter
+,"K-1, 5-9",7,40.658,Middle,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/kings-collegiate-charter-school-52972/,"[-73.9201, 40.658]",-73.9201,Kings Collegiate Charter School,497241,52972,527,9,Charter
+,K-8,7,40.6771,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/pave-academy-charter-school-52977/,"[-74.0119, 40.6771]",-74.0119,Pave Academy Charter School,549718,52977,437,11,Charter
+,5-8,7,40.6881,Middle,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/bedford-stuyvesant-collegiate-charter-school-53176/,"[-73.9315, 40.6881]",-73.9315,Bedford Stuyvesant Collegiate Charter School,502902,53176,477,10,Charter
+,K-11,7,40.6621,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/brooklyn-ascend-charter-school-53177/,"[-73.9211, 40.6621]",-73.9211,Brooklyn Ascend Charter School,501986,53177,1164,14,Charter
+,9-12,7,40.7655,High,[u'High'],/new-york-ny/schools/talent-unlimited-high-school-54778/,"[-73.9598, 40.7655]",-73.9598,Talent Unlimited High School,475294,54778,478,19,Public
+,6-12,7,40.7614,High,"[u'Middle', u'High']",/new-york-ny/schools/professional-performing-arts-high-school-54782/,"[-73.9886, 40.7614]",-73.9886,Professional Performing Arts High School,535800,54782,546,22,Public
+,K-8,7,40.7007,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-8-robert-fulton-63483/,"[-73.993, 40.7007]",-73.993,Ps 8 Robert Fulton,474202,63483,933,15,Public
+,K-8,7,40.691,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/urban-assembly-academy-of-arts-and-letters-63515/,"[-73.9711, 40.691]",-73.9711,Urban Assembly Academy Of Arts And Letters,474235,63515,517,16,Public
+,PK-5,7,40.685,Elementary,[u'Elementary'],/new-york-ny/schools/ps-38-the-pacific-63639/,"[-73.9829, 40.685]",-73.9829,Ps 38 The Pacific,477051,63639,556,14,Public
+,PK-5,7,40.6609,Elementary,[u'Elementary'],/new-york-ny/schools/ps-295-63643/,"[-73.9889, 40.6609]",-73.9889,Ps 295,477054,63643,497,14,Public
+,PK-5,7,40.6406,Elementary,[u'Elementary'],/new-york-ny/schools/ps-131-63648/,"[-73.993, 40.6406]",-73.993,Ps 131,477059,63648,1099,16,Public
+,6-8,7,40.6523,Middle,[u'Middle'],/new-york-ny/schools/sunset-park-prep-63778/,"[-74.0077, 40.6523]",-74.0077,Sunset Park Prep,562854,63778,518,13,Public
+,PK-5,7,40.6915,Elementary,[u'Elementary'],/new-york-ny/schools/ps-25-eubie-blake-school-63783/,"[-73.9408, 40.6915]",-73.9408,Ps 25 Eubie Blake School,474409,63783,175,9,Public
+,PK-5,7,40.6917,Elementary,[u'Elementary'],/new-york-ny/schools/ps-26-jesse-owens-63784/,"[-73.9312, 40.6917]",-73.9312,Ps 26 Jesse Owens,474410,63784,208,12,Public
+,PK-5,7,40.6938,Elementary,[u'Elementary'],/new-york-ny/schools/brighter-choice-community-school-63801/,"[-73.9407, 40.6938]",-73.9407,Brighter Choice Community School,543576,63801,166,15,Public
+,6-12,7,40.6671,High,"[u'Middle', u'High']",/new-york-ny/schools/medgar-evers-college-preparatory-school-63805/,"[-73.9523, 40.6671]",-73.9523,Medgar Evers College Preparatory School,474422,63805,1242,21,Public
+,PK-8,7,40.6742,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-138-64475/,"[-73.9514, 40.6742]",-73.9514,Ps 138,479033,64475,684,13,Public
+,PK-5,7,40.6745,Elementary,[u'Elementary'],/new-york-ny/schools/ps-289-george-v-brower-64485/,"[-73.9423, 40.6745]",-73.9423,Ps 289 George V Brower,479047,64485,385,13,Public
+,6-12,7,40.6496,High,"[u'Middle', u'High']",/new-york-ny/schools/science-tech-and-research-high-school-at-erasmus-64498/,"[-73.9583, 40.6496]",-73.9583,Science Tech And Research High School At Erasmus,557517,64498,532,18,Public
+,K-5,7,40.6981,Elementary,[u'Elementary'],/new-york-ny/schools/ps-376-64921/,"[-73.9203, 40.6981]",-73.9203,Ps 376,474736,64921,566,17,Public
+,9-12,7,40.7435,High,[u'High'],/new-york-ny/schools/aviation-career-and-technical-high-school-64948/,"[-73.9293, 40.7435]",-73.9293,Aviation Career and Technical High School,474762,64948,2147,17,Public
+,6-8,7,40.7058,Middle,[u'Middle'],/new-york-ny/schools/is-93-ridgewood-68452/,"[-73.903, 40.7058]",-73.903,Is 93 Ridgewood,476170,68452,1157,14,Public
+,9-12,7,40.7182,High,[u'High'],/new-york-ny/schools/bard-high-school-early-college-queens-69404/,"[-73.976, 40.7182]",-73.976,Bard High School Early College Queens,476858,69404,623,17,Public
+,9-12,7,40.7561,High,[u'High'],/new-york-ny/schools/frank-sinatra-school-of-the-arts-high-school-146137/,"[-73.9251, 40.7561]",-73.9251,Frank Sinatra School Of The Arts High School,744518,146137,830,18,Public
+,K-12,7,40.6884,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/excellence-girls-charter-school-157699/,"[-73.9244, 40.6884]",-73.9244,Excellence Girls Charter School,634544,157699,705,10,Charter
+,K-12,7,40.5744,Middle,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/coney-island-preparatory-public-charter-school-157703/,"[-73.9901, 40.5744]",-73.9901,Coney Island Preparatory Public Charter School,629607,157703,785,13,Charter
+,K-12,7,40.6723,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/leadership-preparatory-ocean-hill-charter-school-157706/,"[-73.9061, 40.6723]",-73.9061,Leadership Preparatory Ocean Hill Charter School,744166,157706,705,11,Charter
+,K-8,7,40.6857,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/leadership-preparatory-brownsville-charter-school-157715/,"[-73.966, 40.6857]",-73.966,Leadership Preparatory Brownsville Charter School,633759,157715,669,10,Charter
+,5-8,7,40.678,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ocean-hill-collegiate-charter-school-157716/,"[-73.9152, 40.678]",-73.9152,Ocean Hill Collegiate Charter School,745435,157716,392,10,Charter
+,K-5,7,40.6439,Elementary,[u'Elementary'],/new-york-ny/schools/new-hope-academy-charter-school-157719/,"[-73.9224, 40.6439]",-73.9224,New Hope Academy Charter School,630048,157719,388,,Charter
+,K-8,7,40.6937,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/bushwick-ascend-charter-school-157721/,"[-73.9089, 40.6937]",-73.9089,Bushwick Ascend Charter School,745545,157721,745,14,Charter
+,K-5,7,40.6602,Elementary,[u'Elementary'],/new-york-ny/schools/imagine-me-leadership-charter-school-157722/,"[-73.8835, 40.6602]",-73.8835,Imagine Me Leadership Charter School,634032,157722,225,14,Charter
+,K-8,7,40.6321,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/brooklyn-dreams-charter-school-157739/,"[-73.9697, 40.6321]",-73.9697,Brooklyn Dreams Charter School,632985,157739,580,,Charter
+,K-5,7,40.6395,Elementary,[u'Elementary'],/new-york-ny/schools/ps-310-159761/,"[-74.0203, 40.6395]",-74.0203,Ps 310,695615,159761,452,14,Public
+,9-12,6,40.7166,High,[u'High'],/new-york-ny/schools/thomas-a-edison-career-and-technical-high-school-48677/,"[-73.799, 40.7166]",-73.799,Thomas A Edison Career and Technical High School,466386,48677,2141,21,Public
+,9-12,6,40.7565,High,[u'High'],/new-york-ny/schools/academy-for-careers-in-television-and-film-49067/,"[-73.9327, 40.7565]",-73.9327,Academy for Careers In Television and Film,469631,49067,545,14,Public
+,K-8,6,40.6897,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/brooklyn-excelsior-charter-school-49551/,"[-73.9251, 40.6897]",-73.9251,Brooklyn Excelsior Charter School,520370,49551,710,17,Charter
+,PK-5,6,40.7153,Elementary,[u'Elementary'],/new-york-ny/schools/ps-17-henry-d-woodworth-49704/,"[-73.9572, 40.7153]",-73.9572,Ps 17 Henry D Woodworth,467047,49704,298,10,Public
+,PK-5,6,40.7236,Elementary,[u'Elementary'],/new-york-ny/schools/ps-110-the-monitor-49713/,"[-73.9421, 40.7236]",-73.9421,Ps 110 The Monitor,467057,49713,442,14,Public
+,6-8,6,40.7031,Middle,[u'Middle'],/new-york-ny/schools/is-318-eugeno-maria-de-hostos-49723/,"[-73.9484, 40.7031]",-73.9484,Is 318 Eugeno Maria De Hostos,555440,49723,1489,16,Public
+,9-12,6,40.7154,High,[u'High'],/new-york-ny/schools/brooklyn-preparatory-high-school-49730/,"[-73.9549, 40.7154]",-73.9549,Brooklyn Preparatory High School,467073,49730,519,14,Public
+,6-8,6,40.7147,Middle,[u'Middle'],/new-york-ny/schools/conselyea-preparatory-school-49731/,"[-73.946, 40.7147]",-73.946,Conselyea Preparatory School,467074,49731,497,15,Public
+,6-12,6,40.6612,Middle,"[u'Middle', u'High']",/new-york-ny/schools/east-new-york-family-academy-49814/,"[-73.8868, 40.6612]",-73.8868,East New York Family Academy,535843,49814,488,17,Public
+,6-8,6,40.6653,Middle,[u'Middle'],/new-york-ny/schools/is-392-51095/,"[-73.9177, 40.6653]",-73.9177,Is 392,507458,51095,256,15,Public
+,9-12,6,40.6895,High,[u'High'],/new-york-ny/schools/high-school-construction-trades-engineering-and-arc-51537/,"[-73.8412, 40.6895]",-73.8412,High School Construction Trades Engineering And Arc,467937,51537,974,16,Public
+,5-12,6,40.7059,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/williamsburg-collegiate-charter-school-52233/,"[-73.9619, 40.7059]",-73.9619,Williamsburg Collegiate Charter School,551414,52233,330,12,Charter
+,K-12,6,40.6621,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/achievement-first-crown-heights-charter-school-52235/,"[-73.9364, 40.6621]",-73.9364,Achievement First Crown Heights Charter School,519744,52235,1011,12,Charter
+,K-12,6,40.6723,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/kipp-amp-charter-school-52236/,"[-73.9373, 40.6723]",-73.9373,KIPP Amp Charter School,569220,52236,786,13,Charter
+,PK-8,6,40.629,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-192-magnet-school-for-math-and-science-inquiry-52334/,"[-73.9798, 40.629]",-73.9798,Ps 192 Magnet School For Math And Science Inquiry,468382,52334,685,11,Public
+,PK-8,6,40.6214,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-99-isaac-asimov-52469/,"[-73.9657, 40.6214]",-73.9657,Ps 99 Isaac Asimov,468447,52469,882,16,Public
+,K-8,6,40.6228,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-121-nelson-a-rockefeller-52472/,"[-73.9788, 40.6228]",-73.9788,Ps 121 Nelson A Rockefeller,468451,52472,346,10,Public
+,K-5,6,40.6049,Elementary,[u'Elementary'],/new-york-ny/schools/ps-128-bensonhurst-52473/,"[-73.9952, 40.6049]",-73.9952,Ps 128 Bensonhurst,468453,52473,423,13,Public
+,PK-5,6,40.6012,Elementary,[u'Elementary'],/new-york-ny/schools/ps-153-homecrest-52474/,"[-73.9601, 40.6012]",-73.9601,Ps 153 Homecrest,468454,52474,564,15,Public
+,PK-5,6,40.6084,Elementary,[u'Elementary'],/new-york-ny/schools/ps-177-the-marlboro-52475/,"[-73.9744, 40.6084]",-73.9744,Ps 177 The Marlboro,468455,52475,952,16,Public
+,PK-5,6,40.6023,Elementary,[u'Elementary'],/new-york-ny/schools/ps-215-morris-h-weiss-52480/,"[-73.9699, 40.6023]",-73.9699,Ps 215 Morris H Weiss,468461,52480,932,18,Public
+,9-12,6,40.5938,High,[u'High'],/new-york-ny/schools/expeditionary-learning-school-for-community-leader-52500/,"[-73.9859, 40.5938]",-73.9859,Expeditionary Learning School For Community Leader,507736,52500,282,14,Public
+,PK-5,6,40.6449,Elementary,[u'Elementary'],/new-york-ny/schools/ps-245-52649/,"[-73.9628, 40.6449]",-73.9628,Ps 245,470588,52649,313,14,Public
+,PK-5,6,40.6125,Elementary,[u'Elementary'],/new-york-ny/schools/ps-197-the-kings-highway-academy-52665/,"[-73.9517, 40.6125]",-73.9517,Ps 197 The Kings Highway Academy,470604,52665,617,13,Public
+,PK-5,6,40.6372,Elementary,[u'Elementary'],/new-york-ny/schools/ps-198-52666/,"[-73.9371, 40.6372]",-73.9371,Ps 198,470605,52666,480,15,Public
+,9-12,6,40.7656,High,[u'High'],/new-york-ny/schools/manhattan-bridges-high-school-55624/,"[-73.9932, 40.7656]",-73.9932,Manhattan Bridges High School,470093,55624,512,16,Public
+,PK-5,6,40.6784,Elementary,[u'Elementary'],/new-york-ny/schools/ps-9-teunis-g-bergen-63484/,"[-73.9658, 40.6784]",-73.9658,Ps 9 Teunis G Bergen,474203,63484,866,16,Public
+,PK-5,6,40.6903,Elementary,[u'Elementary'],/new-york-ny/schools/ps-20-clinton-hill-63486/,"[-73.9715, 40.6903]",-73.9715,Ps 20 Clinton Hill,474205,63486,404,14,Public
+,PK-8,6,40.6765,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-282-park-slope-63500/,"[-73.9777, 40.6765]",-73.9777,Ps 282 Park Slope,474219,63500,700,15,Public
+,6-8,6,40.7016,Middle,[u'Middle'],/new-york-ny/schools/satellite-west-middle-school-63510/,"[-73.9817, 40.7016]",-73.9817,Satellite West Middle School,474230,63510,78,10,Public
+,PK-5,6,40.6803,Elementary,[u'Elementary'],/new-york-ny/schools/ps-32-samuels-mills-sprole-63638/,"[-73.9915, 40.6803]",-73.9915,Ps 32 Samuels Mills Sprole,477050,63638,495,7,Public
+,PK-5,6,40.6675,Elementary,[u'Elementary'],/new-york-ny/schools/ps-124-silas-b-dutcher-63646/,"[-73.9907, 40.6675]",-73.9907,Ps 124 Silas B Dutcher,477057,63646,343,13,Public
+,PK-5,6,40.6489,Elementary,[u'Elementary'],/new-york-ny/schools/ps-130-the-parkside-63647/,"[-73.9759, 40.6489]",-73.9759,Ps 130 The Parkside,477058,63647,768,15,Public
+,PK-5,6,40.6453,Elementary,[u'Elementary'],/new-york-ny/schools/ps-230-doris-l-cohen-63652/,"[-73.9804, 40.6453]",-73.9804,Ps 230 Doris L Cohen,477063,63652,1223,14,Public
+,6-8,6,40.6802,Middle,[u'Middle'],/new-york-ny/schools/new-horizons-school-63775/,"[-73.9913, 40.6802]",-73.9913,New Horizons School,532061,63775,218,7,Public
+,6-8,6,40.6881,Middle,"[u'Elementary', u'Middle']",/new-york-ny/schools/ms-267-math-science-and-technology-63794/,"[-73.9323, 40.6881]",-73.9323,Ms 267 Math Science And Technology,543574,63794,180,10,Public
+,PK-5,6,40.6817,Elementary,[u'Elementary'],/new-york-ny/schools/brooklyn-brownstone-school-63802/,"[-73.9357, 40.6817]",-73.9357,Brooklyn Brownstone School,516020,63802,221,19,Public
+,PK-5,6,40.6732,Elementary,[u'Elementary'],/new-york-ny/schools/dr-jacqueline-peek-davis-school-63807/,"[-73.9198, 40.6732]",-73.9198,Dr Jacqueline Peek-Davis School,474425,63807,231,13,Public
+,PK-5,6,40.6587,Elementary,[u'Elementary'],/new-york-ny/schools/ps-397-foster-laurie-64487/,"[-73.9464, 40.6587]",-73.9464,Ps 397 Foster Laurie,479049,64487,258,14,Public
+,9-12,6,40.6593,High,[u'High'],/new-york-ny/schools/high-school-for-public-service-heroes-of-tomorrow-64495/,"[-73.9432, 40.6593]",-73.9432,High School for Public Service-Heroes of Tomorrow,479055,64495,465,18,Public
+,PK-5,6,40.6442,Elementary,[u'Elementary'],/new-york-ny/schools/ps-279-herman-schreiber-64675/,"[-73.8927, 40.6442]",-73.8927,Ps 279 Herman Schreiber,474685,64675,477,13,Public
+,PK-8,6,40.6486,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/ps-66-64679/,"[-73.9068, 40.6486]",-73.9068,Ps 66,559657,64679,819,17,Public
+,6-12,6,40.6554,Middle,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/brooklyn-prospect-charter-school-157697/,"[-74.0043, 40.6554]",-74.0043,Brooklyn Prospect Charter School,630032,157697,925,12,Charter
+,K-8,6,40.6696,Elementary,"[u'Elementary', u'Middle']",/new-york-ny/schools/brooklyn-scholars-charter-school-157702/,"[-73.8673, 40.6696]",-73.8673,Brooklyn Scholars Charter School,634301,157702,627,21,Charter
+,K-8,6,40.6186,Elementary,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/hebrew-language-academy-157704/,"[-73.9466, 40.6186]",-73.9466,Hebrew Language Academy,635069,157704,728,10,Charter
+,5-8,6,40.6786,Middle,"[u'Elementary', u'Middle', u'High']",/new-york-ny/schools/brooklyn-east-collegiate-charter-school-157736/,"[-73.9659, 40.6786]",-73.9659,Brooklyn East Collegiate Charter School,635310,157736,385,,Charter
